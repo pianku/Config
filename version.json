@@ -2,5 +2,5 @@
   "version": "0.1.16",
   "forceUpdate": true,
   "updateContent": " 1、增加播放失败自动切换功能\n 2、进一步适配tvbox源，不适配的可加群反馈\n 3、优化搜索逻辑\n 4、优化播放逻辑\n 5、修复bug",
-  "url": "https://cdn.jsdelivr.net/gh/pianku/Conifg/releases/download/v0.1.16/pk_v0.1.16.apk"
+  "url": "https://cdn.jsdelivr.net/gh/pianku/Config/pk_v0.1.16.apk"
 }
