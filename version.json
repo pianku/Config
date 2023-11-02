@@ -1,6 +1,6 @@
 {
-  "version": "0.1.17",
+  "version": "0.1.18",
   "forceUpdate": true,
-  "updateContent": " 1、增加源广场(不要导入太多)\n 2、暂时去掉发现页\n 3、去掉默认订阅源\n 4、修复bug\n",
+  "updateContent": " 1、增加【投屏】功能!!!\n 2、增加更新日志和使用文档\n 3、下载默认调用IDM\n 4、播放器设置 增加 是否显示底部进度条\n 5、修复bug\n",
   "url": "https://lanzoui.com/piankuapp"
 }
