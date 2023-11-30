@@ -96,5 +96,12 @@
     "url": "https://weixine.net/ysc.json",
     "note": "",
     "sort": 50
+  },
+  {
+    "type": 3,
+    "name": "福利",
+    "url": "https://cdn.jsdelivr.net/gh/pianku/Config@master/tvbox/fuli.json",
+    "note": "",
+    "sort": 40
   }
 ]
