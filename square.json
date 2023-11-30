@@ -99,9 +99,16 @@
   },
   {
     "type": 3,
-    "name": "福利",
+    "name": "福利1",
     "url": "https://cdn.jsdelivr.net/gh/pianku/Config@master/tvbox/fuli.json",
     "note": "",
+    "sort": 40
+  },
+  {
+    "type": 3,
+    "name": "福利2",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pianku/Config/master/tvbox/fuli.json",
+    "note": "上面导入不了的用这个",
     "sort": 40
   }
 ]
