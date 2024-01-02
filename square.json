@@ -1,36 +1,36 @@
 [
   {
     "type": 3,
-    "name": "\uD83E\uDD73S++",
+    "name": "兜里有糖-SSR",
+    "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
+    "note": "哎呦，不错哦",
+    "sort": 80
+  },
+  {
+    "type": 3,
+    "name": "\uD83E\uDD73你的微笑-SSS",
     "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-    "note": "导入这个即可",
+    "note": "不知道选哪个就导入这个",
     "sort": 70
   },
   {
     "type": 3,
-    "name": "\uD83E\uDD73S+",
+    "name": "\uD83E\uDD73SS",
     "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-    "note": "导入这个即可",
+    "note": "不知道选哪个就导入这个",
     "sort": 70
   },
   {
     "type": 3,
     "name": "4K",
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/pdscxz/TV/main/video/tv4k.json",
-    "note": "线路少但是播放很流畅没广告",
+    "note": "线路少但是播放很流畅",
     "sort": 60
   },
   {
     "type": 3,
-    "name": "666",
-    "url": "https://agit.ai/66666/mao/raw/branch/master/00/001.png",
-    "note": "源够多,清晰度一般",
-    "sort": 50
-  },
-  {
-    "type": 3,
     "name": "时光机",
-    "url": "https://www.bestpvp.site/关注码上放生/时光机",
+    "url": "https://gitee.com/bestpvp/tm/raw/master/source/stable/main.json",
     "note": "源够多",
     "sort": 60
   },
@@ -45,13 +45,6 @@
     "type": 3,
     "name": "小米-小暴脾气",
     "url": "http://xhww.fun:63/小米/DEMO.json",
-    "note": "",
-    "sort": 50
-  },
-  {
-    "type": 3,
-    "name": "唐三",
-    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
     "note": "",
     "sort": 50
   },
@@ -87,13 +80,6 @@
     "type": 3,
     "name": "高天流云-XYQ",
     "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-    "note": "",
-    "sort": 50
-  },
-  {
-    "type": 3,
-    "name": "肥猫",
-    "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
     "note": "",
     "sort": 50
   },
