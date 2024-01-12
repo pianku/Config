@@ -1,6 +1,6 @@
 {
-  "version": "0.1.21",
+  "version": "0.1.22",
   "forceUpdate": true,
-  "updateContent": " 1、分类替换为发现页功能!\n 2、发现页右上角可切换不同源\n 3、优化部分tvbox源兼容性\n 4、修复闪退问题\n 5、修复源管理检测\n 6、修复bug以及引入新的未知bug",
+  "updateContent": " 1、发现页切换源功能UI优化 \n 2、支持tvbox多仓！！！ \n 3、新增公众号联系方式 \n 4、源管理检测优化 \n 5、修复部分手机搜索栏闪退bug \n 6、修复bug以及引入新的未知bug",
   "url": "https://lanzoui.com/piankuapp"
 }
