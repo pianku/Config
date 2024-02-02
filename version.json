@@ -1,6 +1,6 @@
 {
-  "version": "0.1.22",
+  "version": "0.1.23",
   "forceUpdate": true,
-  "updateContent": " 1、发现页切换源功能UI优化 \n 2、支持tvbox多仓！！！ \n 3、新增公众号联系方式 \n 4、源管理检测优化 \n 5、修复部分手机搜索栏闪退bug \n 6、修复bug以及引入新的未知bug",
+  "updateContent": " 1、新增【电视直播】功能!!!\n 2、支持多直播源自动合并去重\n 3、支持长按删除失效直播源\n 4、支持网络和本地直播源\n 5、修复视频比例bug\n 6、修复bug以及引入新的未知bug",
   "url": "https://lanzoui.com/piankuapp"
 }
