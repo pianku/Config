@@ -1,10 +1,17 @@
 [
   {
     "type": 3,
-    "name": "摸鱼儿",
+    "name": " \uD83E\uDD73兜里有糖",
+    "url": "https://gitee.com/tvbox_2_0/ziji/raw/master/ziji.json",
+    "note": "不知道选哪个就导入这个",
+    "sort": 70
+  },
+  {
+    "type": 3,
+    "name": " \uD83E\uDD73摸鱼儿",
     "url": "http://我不是.摸鱼儿.top",
     "note": "哎呦，不错哦",
-    "sort": 80
+    "sort": 70
   },
   {
     "type": 3,
