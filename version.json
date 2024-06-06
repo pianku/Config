@@ -1,6 +1,6 @@
 {
-  "version": "0.1.27",
+  "version": "0.1.28",
   "forceUpdate": true,
-  "updateContent": "1、支持tvbox本地包!!!\n 2、发现页右上角弹窗新增剔除空数据源功能!!!\n 3、新增自动截取磁力地址功能\n 4、新增清除内核增加清空小黑屋功能\n 5、新增播放器设置中新增屏蔽网盘源功能,默认屏蔽\n 6、新增第一次打开提示导入默认源功能\n 7、修复部分地区源广场无数据\n 8、去掉首页磁力播放需要赞助看广告功能",
-  "url": "https://lanzoui.com/piankuapp"
+  "updateContent": "1、支持备份/恢复功能!!!\n 2、新增网络备份/恢复!!!\n 3、新增备份分享功能!!!\n 4、新增发现页弹窗长按屏蔽失效源功能\n 5、修复bug\n ",
+  "url": "https://www.lanzoub.com/piankuapp"
 }
